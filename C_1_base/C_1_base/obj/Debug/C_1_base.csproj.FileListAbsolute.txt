@@ -23,3 +23,9 @@ D:\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.csprojAssemblyReference
 D:\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.csproj.CoreCompileInputs.cache
 D:\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.dll
 D:\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.pdb
+C:\Users\arthu\Documents\GitHub\C-_1_base\C_1_base\C_1_base\bin\Debug\C_1_base.dll
+C:\Users\arthu\Documents\GitHub\C-_1_base\C_1_base\C_1_base\bin\Debug\C_1_base.pdb
+C:\Users\arthu\Documents\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.csprojAssemblyReference.cache
+C:\Users\arthu\Documents\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.dll
+C:\Users\arthu\Documents\GitHub\C-_1_base\C_1_base\C_1_base\obj\Debug\C_1_base.pdb
