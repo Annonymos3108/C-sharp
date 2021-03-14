@@ -10,9 +10,14 @@
         protected double area;
         protected double perimeter;
 
-        public double GetArea()
+        public double Area
         {
-            return area;
+            get { return area; }
+        }
+
+        public double Perimeter
+        {
+            get { return perimeter; }
         }
 
         protected virtual void calculate()
@@ -20,12 +25,12 @@
         }
     }
 
-    class Reactangle : Figure
+    class Rectangle : Figure
     {
         private double sideA;
         private double sideB;
 
-        Reactangle(double sideA, double sideB)
+        public Rectangle(double sideA, double sideB)
         {
             this.sideA = sideA;
             this.sideB = sideB;
@@ -45,7 +50,7 @@
         private double sideB;
         private double sideC;
 
-        Triangle(double sideA, double sideB, double sideC)
+        public Triangle(double sideA, double sideB, double sideC)
         {
             this.sideA = sideA;
             this.sideB = sideB;
@@ -65,7 +70,7 @@
     {
         private double radius;
 
-        Circle(double radius)
+        public Circle(double radius)
         {
             this.radius = radius;
             this.calculate();
@@ -77,5 +82,4 @@
             base.area = System.Math.PI * radius * radius;
         }
     }
-
 }

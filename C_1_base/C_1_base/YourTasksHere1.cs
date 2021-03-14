@@ -48,7 +48,11 @@ namespace C_1_base
             if (a * b >= 0)
                 return a + b;
             else
+<<<<<<< HEAD:C_1_base/C_1_base/YourTasksHere1.cs
                 return Math.Abs(a - b);
+=======
+                return Math.Abs(a-b);
+>>>>>>> 5ed8717a9052a9d92010e78ca1a71a3013a71f8d:C_1_base/C_1_base/YourTasksHere.cs
         }
         #endregion
 
@@ -78,7 +82,11 @@ namespace C_1_base
             int[] arr = new int[n];
             for (int i = 0; i < n; i++)
             {
+<<<<<<< HEAD:C_1_base/C_1_base/YourTasksHere1.cs
                 arr[i] = n - i;
+=======
+                arr[i] = n-i;
+>>>>>>> 5ed8717a9052a9d92010e78ca1a71a3013a71f8d:C_1_base/C_1_base/YourTasksHere.cs
             }
             return arr;
         }
@@ -153,7 +161,11 @@ namespace C_1_base
 
         public static void Fight(ref int health1, int power1, ref int health2, int power2)
         {
+<<<<<<< HEAD:C_1_base/C_1_base/YourTasksHere1.cs
             while (health1 > 0 && health2 > 0)
+=======
+            while (health1 > 0 && health2 >0)
+>>>>>>> 5ed8717a9052a9d92010e78ca1a71a3013a71f8d:C_1_base/C_1_base/YourTasksHere.cs
             {
                 health1 -= power2;
                 health2 -= power1;
